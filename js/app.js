@@ -1,6 +1,4 @@
-(function($, _) {
-	
-	
+
 	/**
 	 *  Here we have my nerdy quotes
 	 */
@@ -32,7 +30,7 @@
 			tags: "Film, Fiction"
 		},
 		{
-			quote: "What's up? Ladies and Gentlemen of Youtube; Boogie 2988 coming at you live, from the power of the internet",
+			quote: "What's up? Ladies and Gentlemen of Youtube; Boogie 2988 coming at you live, from the power of the internet.",
 			source: "Boogie2988",
 			citation: "Youtube - Boogie2988",
 			tags: "Video, Internet, Youtube"
@@ -184,9 +182,3 @@
 		fireMethod();
 		lazyCheck();
 	});
-	
-
-
-	
-
-})(jQuery, _); // Fully reference jQuery after this point.
